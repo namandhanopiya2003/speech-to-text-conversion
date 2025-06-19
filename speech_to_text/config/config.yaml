@@ -1,0 +1,5 @@
+model_type: "wav2vec2"    # Options: wav2vec2, whisper, custom
+model_name: "facebook/wav2vec2-base-960h"
+sample_rate: 16000
+save_transcript: true
+output_text_file: "transcript.txt"
