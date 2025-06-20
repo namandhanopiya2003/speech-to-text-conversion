@@ -1,0 +1,10 @@
+transformers
+torch
+torchaudio
+librosa
+pydub
+scipy
+numpy==1.24.4
+sounddevice
+speechrecognition
+openai-whisper
