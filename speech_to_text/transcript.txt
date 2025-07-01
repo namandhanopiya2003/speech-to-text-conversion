@@ -1,0 +1,1 @@
+THIS IS A SAMPLE TRANSCRIPT MESSAGE: "hello i am checking if speech true text is working properly"
