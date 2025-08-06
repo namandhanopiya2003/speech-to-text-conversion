@@ -116,12 +116,12 @@ python main.py --audio audio_samples/sample.wav
 
 ## ✨ SAMPLE OUTPUT ==>
 
-Recording from microphone...
-Recording for 5 seconds...
-Saved recording: audio_samples/mic_recordings/mic_recording.wav
-Transcribing audio...
-Transcription Result:
-hallo how are you
+Recording from microphone...<br>
+Recording for 5 seconds...<br>
+Saved recording: audio_samples/mic_recordings/mic_recording.wav<br>
+Transcribing audio...<br>
+Transcription Result:<br>
+hallo how are you<br>
 Transcript saved to transcript.txt
 
 ---
@@ -131,4 +131,5 @@ Transcript saved to transcript.txt
 For questions or feedback, feel free to reach out!
 
 ---
+
 
