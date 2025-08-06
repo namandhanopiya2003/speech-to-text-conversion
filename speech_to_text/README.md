@@ -114,36 +114,6 @@ python main.py --audio audio_samples/sample.wav
 
 ---
 
-## ✅ IMPROVEMENTS MADE ==>
-
-- Integrated multiple speech recognition models with seamless switching via config.
-
-- Added real-time microphone recording and saving of audio files.
-
-- Modularized code with separate folders for models, preprocessing, and utilities.
-
-- Configuration-driven parameters for flexibility.
-
-- Automatic saving of transcription output for further use.
-
----
-
-## 📌 To Do / Future Enhancements ==>
-
-- Add GUI for easier interaction and visualization of transcriptions.
-
-- Improve transcription accuracy with model fine-tuning or ensemble models.
-
-- Support live streaming transcription with continuous audio input.
-
-- Add language detection and multi-lingual support.
-
-- Integrate with web frameworks (Flask/Django) for online transcription services.
-
-- Add confidence scores and error correction features.
-
----
-
 ## ✨ SAMPLE OUTPUT ==>
 
 Recording from microphone...
