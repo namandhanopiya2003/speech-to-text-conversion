@@ -30,35 +30,35 @@
 
 ## 📁 PROJECT FOLDER STRUCTURE ==>
 
-speech_to_text_project/
-├── audio_samples/                              # Sample audio files for testing
-│ ├── mic_recordings/
-│ └── sample.wav
-│ 
-├── config/
-│ ├── _init_.py
-│ ├── config.yaml
-│ └── config.py                                 # Configuration loader (model type, sample rate, etc.)
-│
-├── main.py                                     # Main entry point script for running transcription
-│
-├── models/
-│ ├── _init_.py
-│ ├── wav2vec_model.py                          # Wav2Vec2 speech recognition model wrapper
-│ ├── whisper_model.py                          # Whisper speech recognition model wrapper
-│ └── custom_model.py                           # Custom model wrapper (if any)
-│
-├── preprocessing/
-│ ├── _init_.py
-│ └── audio_processing.py                       # Functions for preprocessing and mic recording
-│
-├── utils/
-│ ├── _init_.py
-│ ├── helpers.py                                # Helper functions like saving transcription, recording audio
-│ └── record_audio.py                           # Audio recording utilities
-│
-├── transcript.txt                              # Output transcription file (generated after running)
-├── requirements.txt                            # Python dependencies list
+speech_to_text_project/<br>
+├── audio_samples/                              # Sample audio files for testing<br>
+│ ├── mic_recordings/<br>
+│ └── sample.wav<br>
+│<br> 
+├── config/<br>
+│ ├── _init_.py<br>
+│ ├── config.yaml<br>
+│ └── config.py                                 # Configuration loader (model type, sample rate, etc.)<br>
+│<br>
+├── main.py                                     # Main entry point script for running transcription<br>
+│<br>
+├── models/<br>
+│ ├── _init_.py<br>
+│ ├── wav2vec_model.py                          # Wav2Vec2 speech recognition model wrapper<br>
+│ ├── whisper_model.py                          # Whisper speech recognition model wrapper<br>
+│ └── custom_model.py                           # Custom model wrapper (if any)<br>
+│<br>
+├── preprocessing/<br>
+│ ├── _init_.py<br>
+│ └── audio_processing.py                       # Functions for preprocessing and mic recording<br>
+│<br>
+├── utils/<br>
+│ ├── _init_.py<br>
+│ ├── helpers.py                                # Helper functions like saving transcription, recording audio<br>
+│ └── record_audio.py                           # Audio recording utilities<br>
+│<br>
+├── transcript.txt                              # Output transcription file (generated after running)<br>
+├── requirements.txt                            # Python dependencies list<br>
 └── README.md                                   # Project documentation
 
 ---
@@ -131,3 +131,4 @@ Transcript saved to transcript.txt
 For questions or feedback, feel free to reach out!
 
 ---
+
